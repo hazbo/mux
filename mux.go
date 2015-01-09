@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"path"
 
-	"github.com/gorilla/context"
+	"vendor/context"
 )
 
 // NewRouter returns a new router instance.
